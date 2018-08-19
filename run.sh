@@ -1,0 +1,2 @@
+./Examples/Stereo/stereo_euroc Vocabulary/ORBvoc.bin Examples/Stereo/EuRoC.yaml /media/jinyao/Dataset/euroc_dataset/mav0/cam0/data /media/jinyao/Dataset/euroc_dataset/mav0/cam1/data Examples/Stereo/EuRoC_TimeStamps/MH01.txt
+# ./Examples/Monocular/mono_euroc Vocabulary/ORBvoc.txt Examples/Monocular/EuRoC.yaml /media/jinyao/Dataset/euroc_dataset/mav0/cam0/data Examples/Monocular/EuRoC_TimeStamps/MH01.txt 
